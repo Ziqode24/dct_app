@@ -35,16 +35,8 @@
           "editor.renderLineHighlight": "none",
           "editor.renderControlCharacters": false,
           "editor.renderWhitespace": "none",
-          "editor.quickSuggestions": {
-            "other": false,
-            "comments": false,
-            "strings": false
-          },
           "editor.hover.enabled": false,
           "editor.lightbulb.enabled": "off",
-          "editor.suggestOnTriggerCharacters": false,
-          "editor.suggestSelection": "first",
-          "editor.snippetSuggestions": "none",
           "window.titleBarStyle": "custom"
         }
       }
